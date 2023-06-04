@@ -1,0 +1,7 @@
+# In order to auto source every .bashrc inside a folder,
+# we need to add the following line to ~/.bashrc
+# PROMPT_COMMAND='if [[ "$bashrc" != "$PWD" && "$PWD" != "$HOME" && -e .bashrc ]]; then bashrc="$PWD"; . .bashrc; fi'
+# This mechanism can help we work seamlessly between different-jdk-requirement projects
+
+# Copy this file and then rename it to .bashrc and fill in the actual jdk path in the following line
+export JAVA_HOME="<path-to-jdk-17>"
