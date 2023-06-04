@@ -1,1 +1,4 @@
 /build
+/signing
+/release
+/debug
