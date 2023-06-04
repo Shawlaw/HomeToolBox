@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">家用工具箱</string>
+    <string name="action_open_share_screen">打开“屏幕共享”</string>
+    <string name="failed_to_find_sharescreen_app">没找到“屏幕共享”页面</string>
+</resources>

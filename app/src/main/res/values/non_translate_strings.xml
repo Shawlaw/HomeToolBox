@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pkg_color_os_12_share_screen" translatable="false">com.coloros.sharescreen</string>
+    <string name="component_color_os_12_share_screen" translatable="false">com.coloros.sharescreen.view.ShareScreenMainActivity</string>
+</resources>
